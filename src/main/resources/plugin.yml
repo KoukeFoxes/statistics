@@ -1,0 +1,4 @@
+name: Statistics
+version: ${project.version}
+main: koukefoxes.statistics.Main
+api-version: 1.16
